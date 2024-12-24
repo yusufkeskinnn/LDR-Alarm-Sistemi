@@ -22,3 +22,11 @@ LDR, lazer ışığını sürekli olarak algılar. Eğer birisi lazer ışığı
 # Bulduğumuz Çözümler:
 
 LDR ilk başta algılamadı ve devre istediğimiz gibi çalışmadı. Önce LDR'yi  avometre ile üzerinden geçen akım ve gerilim değerlerini okumaya çalıştık. Değerleri görmeye başladığımızda LDR'nin çalıştığını anladık ve devre bağlantılarını kontrol ettik. Şemaya uygun bir şekilde bağlantıları baştan yaptık. 
+![image](https://github.com/user-attachments/assets/688dc558-93d3-47c9-bb7c-44f6e1e38143)
+
+24. Satırdaki for döngüsüne girdiğimiz ldrVal değerini LDR'nin algılayacağı şekilde arttırıp azalttık. Bizim kullandığımız LDR 50 değerini girdiğimizde çalıştı. for döngüsü içerisindeki büyük simgesi duruma göre küçüktür ile değiştirilerek çalışması kontrol edilebilir.
+
+# Projenin Proteus Şeması:
+
+![New Project - Proteus 8 Professional - Schematic Capture 28 11 2024 10_29_49](https://github.com/user-attachments/assets/c165cc75-641b-4282-a1c1-8d871a227a76)
+
