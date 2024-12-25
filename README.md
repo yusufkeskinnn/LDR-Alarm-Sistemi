@@ -34,5 +34,6 @@ Satır 19'daki for döngüsüne girdiğimiz ldrVal değerini LDR'nin algılayaca
 
 # Projenin Proteus Şeması:
 
-![New Project - Proteus 8 Professional - Schematic Capture 28 11 2024 10_29_49](https://github.com/user-attachments/assets/c165cc75-641b-4282-a1c1-8d871a227a76)
+![Ekran görüntüsü 2024-12-25 121514](https://github.com/user-attachments/assets/ac455e87-7bfc-48fa-9e4c-b5a2da112b6b)
+
 
