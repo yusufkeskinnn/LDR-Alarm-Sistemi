@@ -22,9 +22,14 @@ LDR, lazer ışığını sürekli olarak algılar. Eğer birisi lazer ışığı
 # Bulduğumuz Çözümler:
 
 LDR ilk başta algılamadı ve devre istediğimiz gibi çalışmadı. Önce LDR'yi  avometre ile üzerinden geçen akım ve gerilim değerlerini okumaya çalıştık. Değerleri görmeye başladığımızda LDR'nin çalıştığını anladık ve devre bağlantılarını kontrol ettik. Şemaya uygun bir şekilde bağlantıları baştan yaptık. 
-![image](https://github.com/user-attachments/assets/688dc558-93d3-47c9-bb7c-44f6e1e38143)
+```
+if (ldrVal > 50) {     //ldr degeri 300 kucukse yesil led acik kirmizi led kapali olacak
+    digitalWrite(greenPin, HIGH);
+    digitalWrite(redPin, LOW);
+    } 
 
-24. Satırdaki for döngüsüne girdiğimiz ldrVal değerini LDR'nin algılayacağı şekilde arttırıp azalttık. Bizim kullandığımız LDR 50 değerini girdiğimizde çalıştı. for döngüsü içerisindeki büyük simgesi duruma göre küçüktür ile değiştirilerek çalışması kontrol edilebilir.
+```
+Satır 19'daki for döngüsüne girdiğimiz ldrVal değerini LDR'nin algılayacağı şekilde arttırıp azalttık. Bizim kullandığımız LDR 50 değerini girdiğimizde çalıştı. for döngüsü içerisindeki büyük simgesi duruma göre küçüktür ile değiştirilerek çalışması kontrol edilebilir.
 
 # Projenin Proteus Şeması:
 
