@@ -36,4 +36,14 @@ Satır 19'daki for döngüsüne girdiğimiz ldrVal değerini LDR'nin algılayaca
 
 ![Ekran görüntüsü 2024-12-25 121514](https://github.com/user-attachments/assets/ac455e87-7bfc-48fa-9e4c-b5a2da112b6b)
 
+# Devre Lazer ile Tamamlandığında:
+
+![image](https://github.com/user-attachments/assets/9f217861-9ce8-4fef-94ac-b4824ae28cad)
+
+# Lazerin Önü Kesildiğinde:
+
+![image](https://github.com/user-attachments/assets/9a3c9940-ad42-4cc4-98a4-98cc83864a08)
+
+
+
 
